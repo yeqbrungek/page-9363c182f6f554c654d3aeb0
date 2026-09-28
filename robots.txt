@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://m.chengxiangjob.cn/sitemap.xml
